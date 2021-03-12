@@ -15,6 +15,7 @@
     font-size: 60px;
     text-decoration: none;
 }
+
 .row {
   width: 100%;
   display: flex;
@@ -79,6 +80,11 @@ article.post h2 {
 }
 
 .post h2 a, .post h2 a:visited {
+    color: #000000;
+    font-size: 45px;
+}
+
+.post h2, .post h2:visited {
     color: #000000;
     font-size: 45px;
 }
